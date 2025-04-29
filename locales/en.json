@@ -64,7 +64,7 @@
     "movieFinderTitle": "Movie Finder App",
     "movieFinderDescription": "The Movie Finder App lets users search for movies and view trending titles using the TMDB API. Built with React, it displays movie details and tracks search activity.",
     "allergyAppTitle": "Allergy",
-    "allergyAppDescription": "This app is set up to give me a simple answer that how big dose of allergy medicine do i need today. It calls API Ambee and OpenWeatherMap than calculates how strong the pollen concentration and how hot the weather is.",
+    "allergyAppDescription": "This app provides a straightforward answer to the amount of allergy medication that is required for a day. It calls API Ambee and OpenWeatherMap than calculates how strong the pollen concentration and how hot the weather is.",
     "viewProjectButton": "View Project",
     "underDevelopment": "Under development."
   },
