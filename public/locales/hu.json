@@ -1,0 +1,84 @@
+{
+  "aboutMe": "Rólam",
+  "about": {
+    "intro": "Motivált és szorgalmas fejlesztőként a megbízható és hatékony szoftverek a célom. Szeretek komplex problémákkal foglalkozni és értékelem a kollaborációt, hogy valódi digitális értéket teremtsünk.",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "otherSkills": "Egyéb készségek",
+    "educationTitle": "🏫 Tanulmányok",
+    "mastersTitle": "Alkalmazott Informatika Mesterképzés",
+    "universityNameMA": "Páneurópai Egyetem (BA)",
+    "mastersDuration": "(2022-2024)",
+    "bachelorsTitle": "Alkalmazott Informatika Alapképzés",
+    "universityNameBA": "Páneurópai Egyetem (BA)",
+    "bachelorsDuration": "(2019-2022)",
+    "publicationTitle": "📰 Publikációk",
+    "publicationText": "„USING MOTION CAPTURE SYSTEMSTO CREATE VIRTUAL REALITY SCENES” \nMegjelent a International Journal of Information Technology Applications, 13. kötet, 1. szám, 2024. július, 35. oldal.",
+    "viewPublication": "Publikáció megtekintése",
+    "workExperienceTitle": "👨‍💻 Munkatapasztalat",
+    "work1Title": "Webadminisztrátor, Auto-Kovo, s.r.o",
+    "work1Date": "2024. június – Jelen",
+    "work1Description1": "PrestaShop, Elementor és WordPress alapú webes megoldások fejlesztése és kezelése.",
+    "work1Description2": "Weboldal teljesítményének monitorozása és technikai problémák elhárítása.",
+    "work1Description3": "Adatbázis konfigurálása és kezelése.",
+    "work2Title": "Frontend fejlesztő, Energofish s.r.o.",
+    "work2Date": "2019. augusztus – 2020. február",
+    "work2Description1": "Egyoldalas alkalmazások létrehozása, módosítása és optimalizálása React használatával.",
+    "work2Description2": "Weboldal funkcionalitásának adminisztrációja, frissítése és fejlesztése.",
+    "work3Title": "Webadminisztrátor, Fuji Foto DS",
+    "work3Date": "2018. június – 2018. október",
+    "work3Description1": "Weboldal adminisztrációja és tartalomfrissítések.",
+    "work4Title": "Webadminisztrátor, Auto-kovo, s.r.o",
+    "work4Date": "2017. október – 2024. május",
+    "work4Description1": "Nyári gyakorlat/hétvégi munka tanulmányok alatt – weboldal kezelése és karbantartása."
+  },
+  "frontendSkills": [
+    "React",
+    "Javascript",
+    "TailwindCSS",
+    "Sass"
+  ],
+  "backendSkills": [
+    "Python",
+    "PHP",
+    "SQL(MySQL)",
+    "Yii 2",
+    "GO"
+  ],
+  "otherSkills": [
+    "Git",
+    "UE4+",
+    "Blender"
+  ],
+  "contact": {
+    "title": "Lépj kapcsolatba",
+    "namePlaceholder": "Név",
+    "emailPlaceholder": "pelda@gmail.com",
+    "messagePlaceholder": "Üzeneted...",
+    "sendMessageButton": "Üzenet küldése"
+  },
+  "projects": {
+    "title": "Kiemelt projektek",
+    "movieTicketBookingTitle": "Mozi Jegyfoglalási Rendszer",
+    "movieTicketBookingDescription": "Egy web alapú mozi jegyfoglalási rendszer Yii2 (PHP) használatával. Lehetővé teszi a felhasználók számára a filmek böngészését, a szabad helyek ellenőrzését és az online jegyfoglalást, míg a rendszergazdák kezelhetik a mozik, filmeket és foglalásokat.",
+    "movieFinderTitle": "Filmkereső Alkalmazás",
+    "movieFinderDescription": "A Filmkereső Alkalmazás lehetővé teszi a felhasználók számára filmek keresését és a felkapott címek megtekintését a TMDB API segítségével. React-ban készült, megjeleníti a film részleteit és nyomon követi a keresési aktivitást.",
+    "allergyAppTitle": "Allergia",
+    "allergyAppDescription": "Ez az alkalmazás arra van beállítva, hogy egyszerű választ adjon arra, mekkora adag allergia gyógyszerre van ma szükségem. Meghívja az Ambee és az OpenWeatherMap API-t, majd kiszámítja a pollenkoncentráció és a hőmérséklet erősségét.",
+    "viewProjectButton": "Projektek",
+    "underDevelopment": "Fejlesztés alatt."
+  },
+  "mobileMenu": {
+    "home": "Főoldal",
+    "about": "Rólam",
+    "projects": "Projektek",
+    "contact": "Kapcsolat",
+    "closeMenu": "Menü bezárása"
+  },
+  "home": {
+    "intro": "Webfejlesztő vagyok, mostanában főként a Reacttel és a frontend többi tagjával foglalkozok. Érdeklődésem a dinamikus webalkalmazások fejlesztése, és az új technológiákkal való ismerkedés.",
+    "viewProjects": "Projektek megtekintése",
+    "contactMe": "Kapcsolatfelvétel"
+  }
+}
+
