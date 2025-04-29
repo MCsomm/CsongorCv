@@ -1,0 +1,83 @@
+{
+  "aboutMe": "About me",
+  "about": {
+    "intro": "An enthusiastic developer committed to crafting robust and efficient software solutions. I enjoy the process of unraveling intricate challenges and value working alongside others to build impactful digital experiences.",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "otherSkills": "Other Skills",
+    "educationTitle": "🏫 Education",
+    "mastersTitle": "Applied Informatics Master's",
+    "universityNameMA": "Pan-European University(BA)",
+    "mastersDuration": "2022-2024",
+    "bachelorsTitle": "Applied Informatics Bachelor's",
+    "universityNameBA": "Pan-European University(BA)",
+    "bachelorsDuration": "2019-2022",
+    "publicationTitle": "📰 Publication",
+    "publicationText": "“Using Motion Capture Systems to Create Virtual Reality Scenes” \nPublished in International Journal of Information Technology Applications, Volume 13, Issue 1, July 2024, Page 35.",
+    "viewPublication": "View Publication",
+    "workExperienceTitle": "👨‍💻 Work Experience",
+    "work1Title": "Web Administrator, Auto-Kovo, s.r.o",
+    "work1Date": "June 2024– Present",
+    "work1Description1": "Development and management of web solutions based on PrestaShop, Elementor, and WordPress.",
+    "work1Description2": "Website performance monitoring and troubleshooting technical issues.",
+    "work1Description3": "Database configuration and management.",
+    "work2Title": "Frontend Developer, Energofish s.r.o.",
+    "work2Date": "August 2019 – February 2020",
+    "work2Description1": "Creation, modification, and optimization of single-page applications using React.",
+    "work2Description2": "Administration, updates, and enhancement of website functionality",
+    "work3Title": "Web Administrator, Fuji Foto DS",
+    "work3Date": "June 2018 – October 2018",
+    "work3Description1": "Website administration and content updates.",
+    "work4Title": "Web Administrator, Auto-kovo, s.r.o",
+    "work4Date": "October 2017 – May 2024",
+    "work4Description1": "Summer internship/weekend work during studies – website management and maintenance."
+  },
+  "frontendSkills": [
+    "React",
+    "Javascript",
+    "TailwindCSS",
+    "Sass"
+  ],
+  "backendSkills": [
+    "Python",
+    "PHP",
+    "SQL(MySQL)",
+    "Yii 2",
+    "GO"
+  ],
+  "otherSkills": [
+    "Git",
+    "UE4+",
+    "Blender"
+  ],
+  "contact": {
+    "title": "Get in touch",
+    "namePlaceholder": "Name",
+    "emailPlaceholder": "Example@gmail.com",
+    "messagePlaceholder": "Your message...",
+    "sendMessageButton": "Send Message"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "movieTicketBookingTitle": "Movie Ticket Booking System",
+    "movieTicketBookingDescription": "A web-based Movie Ticket Booking System built with Yii2 (PHP). It allows users to browse movies, check seat availability, and book tickets online, while admins manage theaters, movies, and reservations.",
+    "movieFinderTitle": "Movie Finder App",
+    "movieFinderDescription": "The Movie Finder App lets users search for movies and view trending titles using the TMDB API. Built with React, it displays movie details and tracks search activity.",
+    "allergyAppTitle": "Allergy",
+    "allergyAppDescription": "This app is set up to give me a simple answer that how big dose of allergy medicine do i need today. It calls API Ambee and OpenWeatherMap than calculates how strong the pollen concentration and how hot the weather is.",
+    "viewProjectButton": "View Project",
+    "underDevelopment": "Under development."
+  },
+  "mobileMenu": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "closeMenu": "Close Menu"
+  },
+  "home": {
+    "intro": "I’m a web developer with a recent focus on React and Tailwind CSS. Passionate about creating dynamic web applications, I’m eager to expand my skills and explore new technologies.",
+    "viewProjects": "View Projects",
+    "contactMe": "Contact Me"
+  }
+}

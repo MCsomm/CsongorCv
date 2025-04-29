@@ -1,0 +1,83 @@
+{
+  "aboutMe": "O mne",
+  "about": {
+    "intro": "Som motivovaný a usilovný vývojár a mojím cieľom je vytvárať spoľahlivý a efektívny softvér. Baví ma riešiť zložité problémy a oceňujem spoluprácu, vďaka ktorej môžeme vytvárať reálnu digitálnu hodnotu.",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "otherSkills": "Ďalšie zručnosti",
+    "educationTitle": "🏫 Vzdelanie",
+    "mastersTitle": "Mgr. Aplikovaná informatika",
+    "universityNameMA": "Paneurópska vysoká škola (BA)",
+    "mastersDuration": "(2022-2024)",
+    "bachelorsTitle": "Bc. Aplikovaná informatika",
+    "universityNameBA": "Paneurópska vysoká škola (BA)",
+    "bachelorsDuration": "(2019-2022)",
+    "publicationTitle": "📰 Publikácia",
+    "publicationText": "„Using motion capture systems to create virtual reality scenes“ \npublikované v International Journal of Information Technology Applications, zväzok 13, číslo 1, júl 2024, strana 35.",
+    "viewPublication": "Zobraziť publikáciu",
+    "workExperienceTitle": "👨‍💻 Pracovné skúsenosti",
+    "work1Title": "Webadmin, Auto-kovo, s.r.o",
+    "work1Date": "Jún 2024 - Doteraz",
+    "work1Description1": "Vývoj a správa webových riešení na báze PrestaShop, Elementor a WordPress.",
+    "work1Description2": "Monitorovanie výkonu webu a riešenie technických problémov.",
+    "work1Description3": "Konfigurácia a správa databáz.",
+    "work2Title": "Frontend programátor, Energofish s.r.o",
+    "work2Date": "August 2018 – Október 2019",
+    "work2Description1": "Tvorba, úprava a optimalizácia jednostránkových webových stránok v Reacte.",
+    "work2Description2": "Administrácia, aktualizácia a zlepšovanie funkcionality webových stránok.",
+    "work3Title": "Web Administrator, Fuji Foto DS",
+    "work3Date": "Jún 2018 – Október 2018",
+    "work3Description1": "Administrácia a aktualizácia webovej stránky.",
+    "work4Title": "Webadmin, Auto-kovo, s.r.o",
+    "work4Date": "Október 2017 – Máj 2024",
+    "work4Description1": "Letná stáž/víkendové práce počas štúdia - správa a údržba webových stránok."
+  },
+  "frontendSkills": [
+    "React",
+    "Javascript",
+    "TailwindCSS",
+    "Sass"
+  ],
+  "backendSkills": [
+    "Python",
+    "PHP",
+    "SQL(MySQL)",
+    "Yii 2",
+    "GO"
+  ],
+  "otherSkills": [
+    "Git",
+    "UE4+",
+    "Blender"
+  ],
+  "contact": {
+    "title": "Kontaktujte ma",
+    "namePlaceholder": "Meno",
+    "emailPlaceholder": "priklad@gmail.com",
+    "messagePlaceholder": "Vaša správa...",
+    "sendMessageButton": "Odoslať správu"
+  },
+  "projects": {
+    "title": "Projekty",
+    "movieTicketBookingTitle": "Systém na rezerváciu lístkov do kina",
+    "movieTicketBookingDescription": "Webový systém na rezerváciu lístkov do kina postavený na Yii2 (PHP). Umožňuje používateľom prehliadať filmy, kontrolovať dostupnosť sedadiel a rezervovať lístky online, zatiaľ čo administrátori spravujú kiná, filmy a rezervácie.",
+    "movieFinderTitle": "Aplikácia na vyhľadávanie filmov",
+    "movieFinderDescription": "Aplikácia na vyhľadávanie filmov umožňuje používateľom vyhľadávať filmy a prezerať si trendy pomocou TMDB API. Postavená na React, zobrazuje detaily filmov a sleduje aktivitu vyhľadávania.",
+    "allergyAppTitle": "Alergia",
+    "allergyAppDescription": "Táto aplikácia je nastavená tak, aby mi poskytla jednoduchú odpoveď na to, akú veľkú dávku lieku na alergiu dnes potrebujem. Volá API Ambee a OpenWeatherMap a potom vypočíta, aká silná je koncentrácia peľu a aké je horúce počasie.",
+    "viewProjectButton": "Zobraziť projekt",
+    "underDevelopment": "Vo vývoji."
+  },
+  "mobileMenu": {
+    "home": "Domov",
+    "about": "O mne",
+    "projects": "Projekty",
+    "contact": "Kontakt",
+    "closeMenu": "Zavrieť menu"
+  },
+  "home": {
+    "intro": "Som webový vývojár, ktorý sa v poslednej dobe zameriava na React a Tailwind CSS. Baví ma vytvárať dynamické webové aplikácie a rád sa učím nové technológie.",
+    "viewProjects": "Zobraziť projekty",
+    "contactMe": "Kontaktuj ma"
+  }
+}
