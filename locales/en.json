@@ -60,11 +60,11 @@
   "projects": {
     "title": "Featured Projects",
     "movieTicketBookingTitle": "Movie Ticket Booking System",
-    "movieTicketBookingDescription": "A web-based Movie Ticket Booking System built with Yii2 (PHP). It allows users to browse movies, check seat availability, and book tickets online, while admins manage theaters, movies, and reservations.",
+    "movieTicketBookingDescription": "The web-based Movie Ticket Booking System using Yii2 (PHP), enables users to browse movies, check seat availability, and book tickets online, with admin functionality for managing theaters, movies, and reservations.",
     "movieFinderTitle": "Movie Finder App",
-    "movieFinderDescription": "The Movie Finder App lets users search for movies and view trending titles using the TMDB API. Built with React, it displays movie details and tracks search activity.",
+    "movieFinderDescription": "The Movie Finder App integrates the TMDB API to enable movie searches, display trending titles, and detailed movie information while tracking user search activity.",
     "allergyAppTitle": "Allergy",
-    "allergyAppDescription": "This app provides a straightforward answer to the amount of allergy medication that is required for a day. It calls API Ambee and OpenWeatherMap than calculates how strong the pollen concentration and how hot the weather is.",
+    "allergyAppDescription": "This app provides a straightforward answer to the amount of allergy medication that is required for a day. It integrates data from the Ambee and OpenWeatherMap APIs to accurately calculate daily pollen concentration levels and temperature.",
     "viewProjectButton": "View Project",
     "underDevelopment": "Under development."
   },

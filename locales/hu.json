@@ -1,7 +1,7 @@
 {
   "aboutMe": "Rólam",
   "about": {
-    "intro": "Motivált és szorgalmas fejlesztőként a megbízható és hatékony szoftverek a célom. Szeretek komplex problémákkal foglalkozni és értékelem a kollaborációt, hogy valódi digitális értéket teremtsünk.",
+    "intro": "Developerként jelenleg főleg Reacttel és más modern frontend eszközökkel dolgozom. Szeretem a dinamikus webalkalmazásokat és mindig keresem az alkalmat, hogy új technológiákat próbáljak ki és ismerjek meg..",
     "frontend": "Frontend",
     "backend": "Backend",
     "otherSkills": "Egyéb készségek",
@@ -60,11 +60,11 @@
   "projects": {
     "title": "Kiemelt projektek",
     "movieTicketBookingTitle": "Mozi Jegyfoglalási Rendszer",
-    "movieTicketBookingDescription": "Egy web alapú mozi jegyfoglalási rendszer Yii2 (PHP) használatával. Lehetővé teszi a felhasználók számára a filmek böngészését, a szabad helyek ellenőrzését és az online jegyfoglalást, míg a rendszergazdák kezelhetik a mozik, filmeket és foglalásokat.",
+    "movieTicketBookingDescription": "Webalapú alkalmazás Yii2 (PHP) keretrendszerrel, amely lehetővé teszi a felhasználók számára a filmek böngészését, a szabad helyek megtekintését és online jegyek foglalását. A rendszergazdai felületen keresztül kezelhetők a mozik, a filmek és a foglalások.",
     "movieFinderTitle": "Filmkereső Alkalmazás",
-    "movieFinderDescription": "A Filmkereső Alkalmazás lehetővé teszi a felhasználók számára filmek keresését és a felkapott címek megtekintését a TMDB API segítségével. React-ban készült, megjeleníti a film részleteit és nyomon követi a keresési aktivitást.",
+    "movieFinderDescription": "React alapú webalkalmazás, amely a TMDB API segítségével lehetővé teszi filmek keresését, a népszerű címek böngészését és a filmek részletes adatainak megjelenítését. A rendszer a keresési előzményeket is nyomon követi.\n",
     "allergyAppTitle": "Allergia",
-    "allergyAppDescription": "Ez az alkalmazás arra van beállítva, hogy egyszerű választ adjon arra, mekkora adag allergia gyógyszerre van ma szükségem. Meghívja az Ambee és az OpenWeatherMap API-t, majd kiszámítja a pollenkoncentráció és a hőmérséklet erősségét.",
+    "allergyAppDescription": "Az alkalmazás célja, hogy egyszerű választ adjon a kérdésre: mekkora adag allergiagyógyszerre van ma szükségem? Az Ambee és az OpenWeatherMap API-k adatait felhasználva kiszámítja az aktuális pollenkoncentrációt és a napi hőmérsékletet, majd ezek alapján segít meghatározni az ajánlott gyógyszeradagot.\n",
     "viewProjectButton": "Projektek",
     "underDevelopment": "Fejlesztés alatt."
   },
