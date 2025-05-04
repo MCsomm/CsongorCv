@@ -69,8 +69,8 @@
     "underDevelopment": "Under development.",
     "millionaireTitle": "Who Wants to Be a Millionaire",
     "millionaireDescription": "A desktop version of the popular quiz game, developed using C++ and the Qt framework. It features a dynamic UI.",
-    "ecommerceCppTitle": "Basic E-commerce System in C++",
-    "ecommerceCppDescription": "This C++ program simulates an e-commerce system where customers can browse products, view details, and make purchases. It manages budgets, updates stock quantities, and saves purchase data to text files. Users can search products by name or manufacturer."
+    "ecommerceCppTitle": "Basic E-commerce System in C++ ",
+    "ecommerceCppDescription": "This C++ program simulates an e-commerce system where customers can browse products, view details, and make purchases. It manages budgets, updates stock quantities, and saves purchase data to text files. Users can search products by name or manufacturer. "
   },
   "mobileMenu": {
     "home": "Home",
