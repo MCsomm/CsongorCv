@@ -66,7 +66,11 @@
     "allergyAppTitle": "Alergia",
     "allergyAppDescription": "Táto aplikácia je nastavená tak, aby mi poskytla jednoduchú odpoveď na to, akú veľkú dávku lieku na alergiu dnes potrebujem. Volá API Ambee a OpenWeatherMap a potom vypočíta, aká silná je koncentrácia peľu a aké je horúce počasie.",
     "viewProjectButton": "Zobraziť projekt",
-    "underDevelopment": "Vo vývoji."
+    "underDevelopment": "Vo vývoji.",
+    "millionaireTitle": "Milionár – Qt verzia",
+    "millionaireDescription": "Desktopová verzia známej kvízovej hry vyvinutá v C++ pomocou frameworku Qt. Obsahuje dynamické používateľské rozhranie.",
+    "ecommerceCppTitle": "Basic E-commerce systém v C++",
+    "ecommerceCppDescription": "Tento C++ program simuluje e-commerce systém, kde si zákazníci môžu prezerať produkty, zobraziť detaily a uskutočniť nákup. Spravuje rozpočty, aktualizuje množstvá zásob a ukladá údaje o nákupoch do textových súborov. Používatelia môžu vyhľadávať produkty podľa názvu alebo výrobcu."
   },
   "mobileMenu": {
     "home": "Domov",

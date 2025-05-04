@@ -66,8 +66,13 @@
     "allergyAppTitle": "Allergia",
     "allergyAppDescription": "Az alkalmazás célja, hogy egyszerű választ adjon a kérdésre: mekkora adag allergiagyógyszerre van ma szükségem? Az Ambee és az OpenWeatherMap API-k adatait felhasználva kiszámítja az aktuális pollenkoncentrációt és a napi hőmérsékletet, majd ezek alapján segít meghatározni az ajánlott gyógyszeradagot.\n",
     "viewProjectButton": "Projektek",
-    "underDevelopment": "Fejlesztés alatt."
+    "underDevelopment": "Fejlesztés alatt.",
+    "millionaireTitle": "Legyen Ön is Milliomos",
+    "millionaireDescription": "A népszerű kvízjáték asztali változata, amelyet C++ és Qt  segítségével hoztam életbe. Dinamikus felhasználói felületettel.",
+    "ecommerceCppTitle": "Basic E-kereskedelmi Rendszer C++",
+    "ecommerceCppDescription": "Ez a C++ program egy e-kereskedelmi rendszert szimulál, ahol a vásárlók termékeket böngészhetnek, megtekinthetik a részleteket és vásárlásokat végezhetnek. Kezeli a költségvetéseket, frissíti a készlet mennyiségeket, és a vásárlási adatokat TXT fájlokba menti. A felhasználók kereshetnek termékeket név vagy gyártó alapján."
   },
+
   "mobileMenu": {
     "home": "Főoldal",
     "about": "Rólam",

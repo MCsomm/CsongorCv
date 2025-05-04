@@ -73,6 +73,62 @@ export const Projects = () => {
                             </div>
                         </div>
                         <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30
+                                 hover:shadow-[0_2px_8px_rgba(239, 68, 68, 0.4)] transition-all">
+                            <h3 className="text-xl font-bold mb-2">{t('projects.ecommerceCppTitle')}</h3>
+                            <p className="text-gray-400 mb-4">
+                                {t('projects.ecommerceCppDescription')}
+                            </p>
+                            <div>
+                                {["C++"].map((tech, key) => (
+                                    <span
+                                        key={key}
+                                        className="bg-red-500/10 text-red-500 py-1 px-3 rounded-full text-sm hover:bg-red-500/20
+                                       hover:shadow-[0_2px_8px_rgba(239, 68, 68, 0.4)] transition"
+                                    >
+                                        {tech}
+                                    </span>
+                                ))}
+                            </div>
+                            <div>
+                                <a
+                                    href="https://github.com/MCsomm/Basic-E-commerce-System"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="inline-block mt-4 py-2 px-4 bg-red-500 text-white rounded-lg text-center hover:bg-red-600 transition duration-300"
+                                >
+                                    {t('projects.viewProjectButton')}
+                                </a>
+                            </div>
+                        </div>
+                        <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30
+                                 hover:shadow-[0_2px_8px_rgba(239, 68, 68, 0.4)] transition-all">
+                            <h3 className="text-xl font-bold mb-2">{t('projects.millionaireTitle')}</h3>
+                            <p className="text-gray-400 mb-4">
+                                {t('projects.millionaireDescription')}
+                            </p>
+                            <div>
+                                {["C++", "Qt Framework"].map((tech, key) => (
+                                    <span
+                                        key={key}
+                                        className="bg-red-500/10 text-red-500 py-1 px-3 rounded-full text-sm hover:bg-red-500/20
+                                       hover:shadow-[0_2px_8px_rgba(239, 68, 68, 0.4)] transition"
+                                    >
+                                     {tech}
+                                    </span>
+                                ))}
+                            </div>
+                            <div>
+                                <a
+                                    href="https://github.com/MCsomm/Million-Quiz-CPP"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                    className="inline-block mt-4 py-2 px-4 bg-red-500 text-white rounded-lg text-center hover:bg-red-600 transition duration-300"
+                                >
+                                    {t('projects.viewProjectButton')}
+                                </a>
+                            </div>
+                        </div>
+                        <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-red-500/30
                                                     hover:shadow-[0_2px_8px_rgba(239, 68, 68, 0.4)] transition-all">
                             <h3 className="text-xl font-bold mb-2">{t('projects.allergyAppTitle')}</h3>
                             <p className="text-gray-400 mb-4">
