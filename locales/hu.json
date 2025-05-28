@@ -83,7 +83,12 @@
   "home": {
     "intro": "Webfejlesztő vagyok, mostanában főként a Reacttel és a frontend többi tagjával foglalkozok. Érdeklődésem a dinamikus webalkalmazások fejlesztése, és az új technológiákkal való ismerkedés.",
     "viewProjects": "Projektek megtekintése",
-    "contactMe": "Kapcsolatfelvétel"
+    "contactMe": "Kapcsolatfelvétel",
+    "typing": [
+      "Web Fejlesztő",
+      "AI rajongó",
+      "Technológia megszállott"
+    ]
   }
 }
 

@@ -81,7 +81,14 @@
   },
   "home": {
     "intro": "I’m a web developer with a recent focus on React and Tailwind CSS. Passionate about creating dynamic web applications, I’m eager to expand my skills and explore new technologies.",
+    "typing": [
+      "Web Developer",
+      "AI Enthusiast",
+      "Tech Explorer"
+    ],
     "viewProjects": "View Projects",
     "contactMe": "Contact Me"
   }
+
+
 }
