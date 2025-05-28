@@ -9,7 +9,8 @@ import { Projects } from "./components/sections/Projects.jsx";
 import { Contact} from "./components/sections/Contact.jsx";
 import React, { useState } from "react";
 import { useTranslation } from 'react-i18next';
-// ... other imports
+import { Chatbot } from "./components/Chatbot.jsx";
+
 
 function App() {
     const [isLoaded, setIsLoaded] = useState(false);
@@ -26,6 +27,7 @@ function App() {
                 <About />
                 <Projects />
                 <Contact />
+                <Chatbot />
             </div>
         </>
     );

@@ -1,0 +1,153 @@
+! version = 2.0
+! default topic = random
+
+> topic random
+
++ help
+- You can ask me about my education, work experience, skills, or projects. Try asking: "What frontend skills do you have?", "What backend skills do you have?", or just type: education, skills, or projects.
+- I can provide information on my background. Ask about my education, experience, skills, or projects. You can also ask for specific details about each.
+- Quick prompts you can use: hi, hello, hey, who are you, education, experience, skills, projects, dream, hope, school.
+
++ hi
+- Hi there! I'm your CV assistant. Ask me about my work, education, skills, or projects.
+- Hello! I'm here to help you navigate my CV. What would you like to know?
+
++ hello
+- Hello! I can help you explore my background, skills, or experience.
+- Hi! I'm ready to answer questions about my professional profile.
+
++ hey
+- Hi there! I'm your CV assistant. Ask me about my work, education, skills, or projects.
+- Hey! Feel free to ask me anything about my experience or skills.
+
++ who are you
+- I'm a passionate web developer focused on React, Tailwind CSS, and backend systems.
+- I am an AI-powered CV assistant, here to provide information about my creator's professional background.
+
++ dream
+- My dream is to work at a larger company, collaborating with a skilled team where I can continuously learn and advance my career.
+- I aspire to join a dynamic company and a strong team that fosters professional growth and allows me to contribute meaningfully.
+
++ hope
+- My hope for the future is to work at a larger company, surrounded by a supportive team, where I can continuously grow and make significant career progress.
+- I'm hoping to find an opportunity within a bigger company and a great team that provides room for career development and new challenges.
+
++ education
+- I have both Bachelor's and Master's degrees in Applied Informatics from Pan-European University.\nIf you want to know more about the school, ask: "School location" or "Where did you study?". You can also ask: "Tell me about your masters" or "Tell me about your bachelors".
+- My academic journey includes both undergraduate and postgraduate studies in Applied Informatics. Want details on specific degrees? Ask: "Tell me about your masters" or "Tell me about your bachelors".
+
++ school
+- I studied Applied Informatics at Pan-European University. You can ask: "School location", "Where did you study?", or "What years did you study?". You can also ask about my "education" for more details.
+- My university is Pan-European University. Do you want to know its "location" or about my "degrees"?
+
++ experience
+- I've worked in roles like Frontend Developer and Web Administrator at several companies, focusing on building and maintaining robust web solutions.\nTry asking: "What do you do at Auto-Kovo?", "Tell me about your job at Energofish", or "Where did you intern?".
+- My professional experience spans various web development roles, providing me with a diverse skill set. Ask about specific roles like "current job" or "Energofish".
+
++ skills
+- I specialize in frontend, backend, and creative tools.\nAsk more about: "What frontend skills do you have?", "What backend technologies do you use?", or "What other skills do you bring?"
+- My skill set covers development, databases, and visual design. You can ask for specifics on "frontend skills", "backend technologies", or "other skills".
+
++ projects
+- I've developed apps in React, Yii2, C++, and more, showcasing my diverse technical abilities.\nTry asking: "Tell me about the allergy app", "What is the movie finder project?", or "What game did you build?"
+- I have a portfolio of projects demonstrating my practical experience in different programming languages and frameworks. Feel free to ask about "movie ticket system" or "ecommerce system".
+
++ tell me about your education
+- I earned a Bachelor's and a Master's in Applied Informatics from Pan-European University. Do you want to know about a specific degree, like "masters" or "bachelors"?
+- My degrees are in Applied Informatics from Pan-European University. Ask "school location" for details on the campus.
+
++ tell me about your masters
+- I'm studying for a Master's in Applied Informatics (2022-2024) at Pan-European University.
+- My Master's program at Pan-European University is in Applied Informatics, which I am pursuing from 2022 to 2024.
+
++ tell me about your bachelors
+- I completed my Bachelor's in Applied Informatics (2019-2022) at Pan-European University.
+- My Bachelor's degree in Applied Informatics was completed between 2019 and 2022.
+
++ school location
+- Pan-European University is located in Bratislava, Slovakia.
+- I studied at Pan-European University in Bratislava, Slovakia.
+
++ where did you study
+- I studied at Pan-European University in Bratislava, Slovakia.
+- My university was Pan-European University, situated in Bratislava.
+
++ what years did you study
+- I studied my Bachelor's from 2019-2022 and my Master's from 2022-2024.
+- My undergraduate studies were 2019-2022, and my postgraduate studies are 2022-2024.
+
++ what publications do you have
+- "Using Motion Capture Systems to Create Virtual Reality Scenes" - published in IJITA, July 2024, Page 35.
+- I have a publication on "Using Motion Capture Systems to Create Virtual Reality Scenes".
+
++ where did you publish
+- In the International Journal of Information Technology Applications, July 2024 edition.
+- My research was published in the International Journal of Information Technology Applications.
+
++ what frontend skills do you have
+- I work with React, JavaScript, TailwindCSS, and Sass.
+- My frontend stack includes React, JavaScript, TailwindCSS, and Sass.
+
++ what backend skills do you have
+- I use Python, PHP, SQL (MySQL), Yii2, and Go.
+- My backend proficiencies are Python, PHP, SQL (MySQL), Yii2, and Go.
+
++ what backend technologies do you use
+- For backend, I use Python, PHP, SQL (MySQL), and the Yii2 framework. I'm also familiar with Go.
+- My primary backend technologies are Python, PHP (with Yii2), and SQL (MySQL), and I'm learning Go.
+
++ what other skills do you bring
+- Git, Unreal Engine 4+, and Blender.
+- Beyond code, I also know Git, Unreal Engine 4+, and Blender.
+
++ what projects have you worked on
+- I have worked on various projects including a Movie Ticket Booking System, Movie Finder App, Allergy App, Millionaire Game, and an E-commerce System in C++. Which one would you like to know more about?
+- My project portfolio demonstrates my skills in different areas like web development, mobile applications, and game development.
+
++ tell me about the movie ticket system
+- A Yii2-based booking system that allows users to browse movies, check seats, and book tickets online.\nAdmins manage theaters, movies, and reservations.
+- The Movie Ticket Booking System is a Yii2 project for movie reservations.
+
++ tell me about the movie finder
+- A React app using TMDB API to search and display trending movies with user search tracking.
+- My Movie Finder project is a React app that interacts with the TMDB API.
+
++ tell me about the allergy app
+- Calculates daily allergy med dosage using pollen and weather data via Ambee and OpenWeatherMap APIs.
+- The Allergy App determines medication dosage based on pollen and weather data.
+
++ tell me about the millionaire game
+- A C++ Qt desktop version of "Who Wants to Be a Millionaire" with dynamic UI.
+- I developed a desktop game in C++ Qt, based on "Who Wants to Be a Millionaire".
+
++ tell me about the ecommerce system
+- A C++ app simulating an e-commerce system: browse, buy, and track products with file-based storage.
+- My C++ e-commerce project simulates online shopping with file-based data.
+
++ what is your current job
+- I'm currently a Web Administrator at Auto-Kovo, s.r.o since June 2024.
+- Since June 2024, I've been a Web Administrator at Auto-Kovo, s.r.o.
+
++ tell me about auto kovo
+- At Auto-Kovo, s.r.o, I am a Web Administrator since June 2024, managing and maintaining the company's web presence.
+- My current role at Auto-Kovo, s.r.o is Web Administrator, focusing on website management.
+
++ tell me about energofish
+- At Energofish, I worked as a Frontend Developer (Aug 2019 - Feb 2020) creating and optimizing SPAs with React.
+- From Aug 2019 to Feb 2020, I was a Frontend Developer at Energofish, focusing on React SPAs.
+
++ tell me about fuji foto
+- I interned at Fuji Foto DS in 2018, managing site content and updates.
+- My internship at Fuji Foto DS in 2018 involved site content management.
+
++ where did you intern
+- I interned at Fuji Foto DS in 2018.
+- My internship was at Fuji Foto DS.
+
++ anything else
+- You can ask about any topic from my CV.\nTry keywords like "education", "skills", "React", or "experience".
+- If you have more questions, feel free to ask about specific projects, skills, or my general background.
+
++ *
+- Hmm, I do not understand. Try asking about education, skills, projects, dream, hope, current job, or school.
+- I am not sure how to respond. Could you rephrase your question or ask about my CV topics?
