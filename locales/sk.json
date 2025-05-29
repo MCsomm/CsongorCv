@@ -80,13 +80,13 @@
     "closeMenu": "Zavrieť menu"
   },
   "home": {
-    "intro": "Som developer, ktorý sa v poslednej dobe zameriava na React a Tailwind CSS. Baví ma vytvárať dynamické webové aplikácie a rád sa učím nové technológie.",
+    "intro": "S pomocou Reactu vytváram dynamické a používateľsky príjemné aplikácie. AI aplikácie, Python a databázové riešenia sú moje nové oblasti záujmu, ktoré aktívne začleňujem do svojich projektov.",
     "viewProjects": "Zobraziť projekty",
     "contactMe": "Kontaktuj ma",
     "typing": [
       "Web Vývojár",
       "AI Fanúšik",
-      "Nadšenec do technológií"
+      "Developer"
     ]
   }
 }
