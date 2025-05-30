@@ -53,7 +53,7 @@
   "contact": {
     "title": "Lépj kapcsolatba",
     "namePlaceholder": "Név",
-    "emailPlaceholder": "pelda@gmail.com",
+    "emailPlaceholder": "Pelda@gmail.com",
     "messagePlaceholder": "Üzeneted...",
     "sendMessageButton": "Üzenet küldése"
   },
@@ -74,7 +74,9 @@
     "transformersAppTitle": "Böngészőben futó fordítóalkalmazás",
     "transformersAppDescription": "Egy egyszerű fordító programocska a Transformers.js és a Xenova NLLB modell felhasználásával. Több mint 200 nyelvet támogat, és teljes egészében a böngészőben fut, API vagy háttérszerver nélkül. Vite-tel készült, és Web Workereket használ a zökkenőmentes felhasználói élmény érdekében, valós idejű betöltési folyamatjelzőkkel.",
     "sentimentAnalyzerTitle": "React Hangulat/Sentiment elemző Transformers.js-sel",
-    "sentimentAnalyzerDescription": "Egy egyszerűbb React alkalmazás valós idejű hangulatelemzéshez a böngészőben a Transformers.js segítségével. Web Workerrel futtatja a distilbert-base-uncased-finetuned-sst-2-english modellt, így nem blokkolja a felhasználói felületet. Futtatás kliens oldalon (szerver nélkül)."
+    "sentimentAnalyzerDescription": "Egy egyszerűbb React alkalmazás valós idejű hangulatelemzéshez a böngészőben a Transformers.js segítségével. Web Workerrel futtatja a distilbert-base-uncased-finetuned-sst-2-english modellt, így nem blokkolja a felhasználói felületet. Futtatás kliens oldalon (szerver nélkül).",
+    "objectDetectorTitle": "React Objektumfelismerő",
+    "objectDetectorDescription": "Egy React alapú webalkalmazás valós idejű objektumfelismeréshez a Transformers.js és a DETR ResNet-50 modell segítségével. Teljes egészében a böngészőben fut (kliens oldali előfeldolgozás), nincs szükség háttérszerverre vagy API-hívásra. Kép feltöltése után felismeri és megjelöli az objektumokat JavaScript és WebAssembly segítségével."
   },
 
   "mobileMenu": {

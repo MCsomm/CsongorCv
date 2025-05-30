@@ -74,7 +74,9 @@
     "transformersAppTitle": "Prekladač bežiaci v prehliadači",
     "transformersAppDescription": "Ľahká prekladová aplikácia postavená na Transformers.js a modeli Xenova NLLB. Podporuje viac než 200 jazykov a beží priamo v prehliadači bez použitia API alebo backendu. Vytvorená vo Vite a využíva Web Workery pre plynulý chod používateľského rozhrania s ukazovateľmi priebehu načítania modelu v reálnom čase.",
     "sentimentAnalyzerTitle": "React Analyzátor Sentimentu s Transformers.js",
-    "sentimentAnalyzerDescription": "React aplikácia na analýzu sentimentu v reálnom čase priamo v prehliadači pomocou Transformers.js. Používa Web Worker na spustenie modelu distilbert-base-uncased-finetuned-sst-2-english bez blokovania UI. Klientska inferencia (bez servera)."
+    "sentimentAnalyzerDescription": "React aplikácia na analýzu sentimentu v reálnom čase priamo v prehliadači pomocou Transformers.js. Používa Web Worker na spustenie modelu distilbert-base-uncased-finetuned-sst-2-english bez blokovania UI. Klientska inferencia (bez servera).",
+    "objectDetectorTitle": "React Detektor Objektov",
+    "objectDetectorDescription": "Webová aplikácia postavená na Reacte na detekciu objektov v reálnom čase pomocou Transformers.js a modelu DETR ResNet-50. Aplikácia beží výhradne v prehliadači (klientská inferencia), bez potreby API alebo backendu. Po nahraní obrázku rozpozná objekty a vykreslí ohraničujúce rámčeky pomocou JavaScriptu a WebAssembly."
   },
   "mobileMenu": {
     "home": "Domov",
@@ -84,7 +86,7 @@
     "closeMenu": "Zavrieť menu"
   },
   "home": {
-    "intro": "S pomocou Reactu vytváram dynamické a používateľsky príjemné aplikácie. AI aplikácie, Python a databázové riešenia sú moje nové oblasti záujmu, ktoré aktívne začleňujem do svojich projektov.",
+    "intro": "V oblasti technológií sa pohybujem s nadšením. React používam na tvorbu interaktívnych aplikácií, ktoré zlepšujú každodenný život. Aktuálne rozširujem svoje znalosti o AI, Python a databázy, aby som mohol prinášať inovatívne riešenia.",
     "viewProjects": "Zobraziť projekty",
     "contactMe": "Kontaktuj ma",
     "typing": [
