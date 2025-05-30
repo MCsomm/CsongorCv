@@ -70,7 +70,9 @@
     "millionaireTitle": "Who Wants to Be a Millionaire",
     "millionaireDescription": "A desktop version of the popular quiz game, developed using C++ and the Qt framework. It features a dynamic UI.",
     "ecommerceCppTitle": "Basic E-commerce System in C++ ",
-    "ecommerceCppDescription": "This C++ program simulates an e-commerce system where customers can browse products, view details, and make purchases. It manages budgets, updates stock quantities, and saves purchase data to text files. Users can search products by name or manufacturer. "
+    "ecommerceCppDescription": "This C++ program simulates an e-commerce system where customers can browse products, view details, and make purchases. It manages budgets, updates stock quantities, and saves purchase data to text files. Users can search products by name or manufacturer. ",
+    "transformersAppTitle": "Client-side Translation App",
+    "transformersAppDescription": "A lightweight translation playground using Transformers.js and the Xenova NLLB model. Supports over 200 languages and runs entirely in the browser with no API or backend calls. Built with Vite and uses Web Workers for smooth UI performance, with real-time progress indicators during model loading."
   },
   "mobileMenu": {
     "home": "Home",

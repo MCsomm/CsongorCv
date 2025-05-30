@@ -70,7 +70,9 @@
     "millionaireTitle": "Milionár – Qt verzia",
     "millionaireDescription": "Desktopová verzia známej kvízovej hry vyvinutá v C++ pomocou frameworku Qt. Obsahuje dynamické používateľské rozhranie.",
     "ecommerceCppTitle": "Basic E-commerce systém v C++",
-    "ecommerceCppDescription": "Tento C++ program simuluje e-commerce systém, kde si zákazníci môžu prezerať produkty, zobraziť detaily a uskutočniť nákup. Spravuje rozpočty, aktualizuje množstvá zásob a ukladá údaje o nákupoch do textových súborov. Používatelia môžu vyhľadávať produkty podľa názvu alebo výrobcu."
+    "ecommerceCppDescription": "Tento C++ program simuluje e-commerce systém, kde si zákazníci môžu prezerať produkty, zobraziť detaily a uskutočniť nákup. Spravuje rozpočty, aktualizuje množstvá zásob a ukladá údaje o nákupoch do textových súborov. Používatelia môžu vyhľadávať produkty podľa názvu alebo výrobcu.",
+    "transformersAppTitle": "Prekladač bežiaci v prehliadači",
+    "transformersAppDescription": "Ľahká prekladová aplikácia postavená na Transformers.js a modeli Xenova NLLB. Podporuje viac než 200 jazykov a beží priamo v prehliadači bez použitia API alebo backendu. Vytvorená vo Vite a využíva Web Workery pre plynulý chod používateľského rozhrania s ukazovateľmi priebehu načítania modelu v reálnom čase."
   },
   "mobileMenu": {
     "home": "Domov",
