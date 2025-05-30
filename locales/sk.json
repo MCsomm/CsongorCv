@@ -72,7 +72,9 @@
     "ecommerceCppTitle": "Basic E-commerce systém v C++",
     "ecommerceCppDescription": "Tento C++ program simuluje e-commerce systém, kde si zákazníci môžu prezerať produkty, zobraziť detaily a uskutočniť nákup. Spravuje rozpočty, aktualizuje množstvá zásob a ukladá údaje o nákupoch do textových súborov. Používatelia môžu vyhľadávať produkty podľa názvu alebo výrobcu.",
     "transformersAppTitle": "Prekladač bežiaci v prehliadači",
-    "transformersAppDescription": "Ľahká prekladová aplikácia postavená na Transformers.js a modeli Xenova NLLB. Podporuje viac než 200 jazykov a beží priamo v prehliadači bez použitia API alebo backendu. Vytvorená vo Vite a využíva Web Workery pre plynulý chod používateľského rozhrania s ukazovateľmi priebehu načítania modelu v reálnom čase."
+    "transformersAppDescription": "Ľahká prekladová aplikácia postavená na Transformers.js a modeli Xenova NLLB. Podporuje viac než 200 jazykov a beží priamo v prehliadači bez použitia API alebo backendu. Vytvorená vo Vite a využíva Web Workery pre plynulý chod používateľského rozhrania s ukazovateľmi priebehu načítania modelu v reálnom čase.",
+    "sentimentAnalyzerTitle": "React Analyzátor Sentimentu s Transformers.js",
+    "sentimentAnalyzerDescription": "React aplikácia na analýzu sentimentu v reálnom čase priamo v prehliadači pomocou Transformers.js. Používa Web Worker na spustenie modelu distilbert-base-uncased-finetuned-sst-2-english bez blokovania UI. Klientska inferencia (bez servera)."
   },
   "mobileMenu": {
     "home": "Domov",

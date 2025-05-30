@@ -72,7 +72,9 @@
     "ecommerceCppTitle": "Basic E-commerce System in C++ ",
     "ecommerceCppDescription": "This C++ program simulates an e-commerce system where customers can browse products, view details, and make purchases. It manages budgets, updates stock quantities, and saves purchase data to text files. Users can search products by name or manufacturer. ",
     "transformersAppTitle": "Client-side Translation App",
-    "transformersAppDescription": "A lightweight translation playground using Transformers.js and the Xenova NLLB model. Supports over 200 languages and runs entirely in the browser with no API or backend calls. Built with Vite and uses Web Workers for smooth UI performance, with real-time progress indicators during model loading."
+    "transformersAppDescription": "A lightweight translation playground using Transformers.js and the Xenova NLLB model. Supports over 200 languages and runs entirely in the browser with no API or backend calls. Built with Vite and uses Web Workers for smooth UI performance, with real-time progress indicators during model loading.",
+    "sentimentAnalyzerTitle": "React Sentiment Analyzer with Transformers.js",
+    "sentimentAnalyzerDescription": "Lightweight React app performing real-time sentiment analysis in the browser using Transformers.js. Uses a Web Worker to run the distilbert-base-uncased-finetuned-sst-2-english model without blocking the UI. Features client-side inference (no server), Hugging Face-powered."
   },
   "mobileMenu": {
     "home": "Home",
