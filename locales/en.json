@@ -1,7 +1,7 @@
 {
   "aboutMe": "About me",
   "about": {
-    "intro": "An enthusiastic developer committed to crafting robust and efficient software solutions. I enjoy the process of unraveling intricate challenges and value working alongside others to build impactful digital experiences.",
+    "intro": "An enthusiastic developer committed to crafting robust and efficient software solutions. I enjoy unraveling intricate challenges, exploring AI and machine learning, and collaborating with others to build impactful digital experiences.",
     "frontend": "Frontend",
     "backend": "Backend",
     "otherSkills": "Other Skills",
@@ -87,7 +87,7 @@
     "closeMenu": "Close Menu"
   },
   "home": {
-    "intro": "I'm a developer with experience in React and a strong interest in AI, Python, and database management. I enjoy building dynamic applications and continuously exploring new technologies.",
+    "intro": "I'm a developer with experience in React/Frontend and a strong interest in AI, Python, and database management.",
     "typing": [
       "Web Developer",
       "AI Enthusiast",

@@ -1,7 +1,7 @@
 {
   "aboutMe": "Rólam",
   "about": {
-    "intro": "Fejlesztőként elsősorban a dinamikus webalkalmazások építése érdekel, különösen a frontend területe, Reacttel és a hozzá kapcsolódó technológiákkal. Folyamatosan keresem az új megoldásokat, és szívesen mélyedek el friss technológiákban, hogy korszerű, hatékony alkalmazásokat hozzak létre.",
+    "intro": "Fejlesztőként elsősorban a dinamikus webalkalmazások építése érdekel, Reacttel és a hozzá kapcsolódó technológiákkal. Emellett élénken érdeklődöm a mesterséges intelligencia és az adatbázis-kezelés iránt, és szívesen mélyedek el ezekben is, hogy korszerű, hatékony alkalmazásokat hozzak létre.",
     "frontend": "Frontend",
     "backend": "Backend",
     "otherSkills": "És ezek is",
@@ -88,7 +88,7 @@
     "closeMenu": "Menü bezárása"
   },
   "home": {
-    "intro": "Dinamikus, felhasználóbarát alkalmazásokat fejlesztek React segítségével. Az AI alkalmazások, Python és adatbázis-kezelés az új fókuszterületeim, melyeket aktívan integrálok a projektjeimbe.",
+    "intro": "Fejlesztő vagyok, tapasztalattal a React/Frontend terén, valamint élénk érdeklődéssel az MI, a Python és az adatbázis-kezelés iránt.",
     "viewProjects": "Projektek megtekintése",
     "contactMe": "Kapcsolatfelvétel",
     "typing": [
