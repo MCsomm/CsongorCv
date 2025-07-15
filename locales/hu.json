@@ -63,9 +63,9 @@
     "movieTicketBookingTitle": "Mozi Jegyfoglalási Rendszer",
     "movieTicketBookingDescription": "Webalapú alkalmazás Yii2 (PHP) keretrendszerrel, amely lehetővé teszi a felhasználók számára a filmek böngészését, a szabad helyek megtekintését és online jegyek foglalását. A rendszergazdai felületen keresztül kezelhetők a mozik, a filmek és a foglalások.",
     "movieFinderTitle": "Filmkereső Alkalmazás",
-    "movieFinderDescription": "React alapú webalkalmazás, amely a TMDB API segítségével lehetővé teszi filmek keresését, a népszerű címek böngészését és a filmek részletes adatainak megjelenítését. A rendszer a keresési előzményeket is nyomon követi.\n",
+    "movieFinderDescription": "React alapú webalkalmazás, amely a TMDB API segítségével lehetővé teszi filmek keresését, a népszerű címek böngészését és a filmek részletes adatainak megjelenítését. A rendszer a keresési előzményeket is nyomon követi.",
     "allergyAppTitle": "Allergia",
-    "allergyAppDescription": "Az alkalmazás célja, hogy egyszerű választ adjon a kérdésre: mekkora adag allergiagyógyszerre van ma szükségem? Az Ambee és az OpenWeatherMap API-k adatait felhasználva kiszámítja az aktuális pollenkoncentrációt és a napi hőmérsékletet, majd ezek alapján segít meghatározni az ajánlott gyógyszeradagot.\n",
+    "allergyAppDescription": "Ez az alkalmazás C# és ASP.NET Core technológiával készült.Napi szinten világos és egyértelmű ajánlást nyújt a szükséges allergia gyógyszer mennyiségére.Az alkalmazás külső adatforrásokat integrál – konkrétan az Ambee és OpenWeatherMap API-kat –, hogy pontosan kiszámolja a napi pollenkoncentráció szintjét és a helyi hőmérsékletet.Ezen valós idejű adatok felhasználásával segít a felhasználóknak hatékonyabban kezelni az allergiás tüneteiket minden nap..",
     "viewProjectButton": "Projektek",
     "underDevelopment": "Fejlesztés alatt.",
     "millionaireTitle": "Legyen Ön is Milliomos",
@@ -88,7 +88,7 @@
     "closeMenu": "Menü bezárása"
   },
   "home": {
-    "intro": "Fejlesztő vagyok, tapasztalattal a React/Frontend terén, valamint élénk érdeklődéssel az MI, a Python és az adatbázis-kezelés iránt.",
+    "intro": "Fejlesztő vagyok, tapasztalattal a React/Frontend terén, valamint élénk érdeklődéssel az MI, C#,.NET a Python és az adatbázis-kezelés iránt.",
     "viewProjects": "Projektek megtekintése",
     "contactMe": "Kapcsolatfelvétel",
     "typing": [

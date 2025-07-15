@@ -65,7 +65,7 @@
     "movieFinderTitle": "Aplikácia na vyhľadávanie filmov",
     "movieFinderDescription": "Aplikácia na vyhľadávanie filmov umožňuje používateľom vyhľadávať filmy a prezerať si trendy pomocou TMDB API. Postavená na React, zobrazuje detaily filmov a sleduje aktivitu vyhľadávania.",
     "allergyAppTitle": "Alergia",
-    "allergyAppDescription": "Táto aplikácia je nastavená tak, aby mi poskytla jednoduchú odpoveď na to, akú veľkú dávku lieku na alergiu dnes potrebujem. Volá API Ambee a OpenWeatherMap a potom vypočíta, aká silná je koncentrácia peľu a aké je horúce počasie.",
+    "allergyAppDescription": "Táto aplikácia je vytvorená pomocou C# a ASP.NET Core.Poskytuje používateľom jasné a presné odporúčanie, aké množstvo liekov proti alergii je vhodné užiť počas dňa.Aplikácia integruje externé dátové zdroje – konkrétne Ambee a OpenWeatherMap API – aby presne vypočítala dennú koncentráciu peľu a miestnu teplotu.\nVďaka týmto aktuálnym údajom pomáha používateľom lepšie zvládať svoje alergické príznaky každý deň.",
     "viewProjectButton": "Zobraziť projekt",
     "underDevelopment": "Vo vývoji.",
     "millionaireTitle": "Milionár – Qt verzia",
@@ -87,7 +87,7 @@
     "closeMenu": "Zavrieť menu"
   },
   "home": {
-    "intro": "Som vývojár so skúsenosťami s Reactom/Frontendom a silným záujmom o umelú inteligenciu, Python a prácu s databázami.",
+    "intro": "Som vývojár so skúsenosťami s Reactom/Frontendom a silným záujmom o umelú inteligenciu, C#, .NET, Python a prácu s databázami.",
     "viewProjects": "Zobraziť projekty",
     "contactMe": "Kontaktuj ma",
     "typing": [

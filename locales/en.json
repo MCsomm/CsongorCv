@@ -65,7 +65,7 @@
     "movieFinderTitle": "Movie Finder App",
     "movieFinderDescription": "The Movie Finder App integrates the TMDB API to enable movie searches, display trending titles, and detailed movie information while tracking user search activity.",
     "allergyAppTitle": "Allergy",
-    "allergyAppDescription": "This app provides a straightforward answer to the amount of allergy medication that is required for a day. It integrates data from the Ambee and OpenWeatherMap APIs to accurately calculate daily pollen concentration levels and temperature.",
+    "allergyAppDescription": "This application is built with C# and ASP.NET Core. It provides users with a clear, daily recommendation for the appropriate amount of allergy medication. The app integrates external data sources—specifically the Ambee and OpenWeatherMap APIs—to accurately calculate daily pollen concentration levels and local temperature. The application helps users better manage their allergy symptoms each day.",
     "viewProjectButton": "View Project",
     "underDevelopment": "Under development.",
     "millionaireTitle": "Who Wants to Be a Millionaire",
@@ -87,7 +87,7 @@
     "closeMenu": "Close Menu"
   },
   "home": {
-    "intro": "I'm a developer with experience in React/Frontend and a strong interest in AI, Python, and database management.",
+    "intro": "I'm a developer with experience in React/Frontend and a strong interest in AI, .NET, C#, Python, and database management.",
     "typing": [
       "Web Developer",
       "AI Enthusiast",
